@@ -1,2 +1,1 @@
-# Portfolio-Optimization-Market-Performance-Analysis-using-ML
-Portfolio Optimization &amp; Market Performance Analysis using ML
+#  Portfolio Optimization and Market Performance Analysis using Python and ML
