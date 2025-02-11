@@ -102,6 +102,5 @@ This project leverages **Hierarchical Clustering, Gaussian Mixture Models (GMM),
 This project successfully implemented a **data-driven clustering approach** for portfolio selection, outperforming traditional benchmarks while minimizing risk. The **single-cluster strategy proved more effective**, particularly in volatile markets. Sentiment analysis further enhanced stock selection by incorporating market sentiment insights.
 
 Happy Coding and Learning🚀
-```
 
 
